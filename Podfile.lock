@@ -1,0 +1,22 @@
+PODS:
+  - SwiftSocket (2.0.2)
+
+DEPENDENCIES:
+  - SwiftSocket (from `https://github.com/swiftsocket/SwiftSocket.git`, branch `master`)
+
+EXTERNAL SOURCES:
+  SwiftSocket:
+    :branch: master
+    :git: https://github.com/swiftsocket/SwiftSocket.git
+
+CHECKOUT OPTIONS:
+  SwiftSocket:
+    :commit: 4a3af2cbbaef5b2fddbaff80f6767fecc0ce5fe2
+    :git: https://github.com/swiftsocket/SwiftSocket.git
+
+SPEC CHECKSUMS:
+  SwiftSocket: c8d482e867ae4d3eb4c769e9382e123c1f1f833b
+
+PODFILE CHECKSUM: 2f2a77e696ff31379a62b6c38da49bc951122546
+
+COCOAPODS: 1.11.2
